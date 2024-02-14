@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/.db23ac80c1a62d0d1270b21c4d4be83948446ae2-audit.json",
+    "files": [
+        {
+            "date": 1707931076734,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/TT-2024-14-02-23-success.log",
+            "hash": "1efd2b80e27c31a536a39b244b7173b65f2c973e149db53aa0e8cc21b119dd1c"
+        }
+    ],
+    "hashType": "sha256"
+}

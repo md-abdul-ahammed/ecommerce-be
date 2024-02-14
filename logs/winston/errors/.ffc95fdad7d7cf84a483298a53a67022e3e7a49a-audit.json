@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/.ffc95fdad7d7cf84a483298a53a67022e3e7a49a-audit.json",
+    "files": [
+        {
+            "date": 1707931076737,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-14-02-23-error.log",
+            "hash": "171c1d3fc9173f0fe5d5e335c70d180450ae5785a3092ed4c25086aa02265871"
+        }
+    ],
+    "hashType": "sha256"
+}
