@@ -19,6 +19,11 @@
             "date": 1707993354640,
             "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-15-02-16-error.log",
             "hash": "c0f256a1b9f3cfe28d3ef2396edaa6b06e3fa4b3948e67760d6e33558830a4cf"
+        },
+        {
+            "date": 1708003465410,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-15-02-19-error.log",
+            "hash": "dcc61c1aaaa8d66fd7bcbb1afebe8385aeee66a7871efbc89fa7a4e02e2f8ab3"
         }
     ],
     "hashType": "sha256"
